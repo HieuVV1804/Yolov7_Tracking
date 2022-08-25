@@ -1,4 +1,4 @@
-# yolov7-object-tracking
+# yolov7-SORT-tracking
 
 
 ## Steps to run Code
